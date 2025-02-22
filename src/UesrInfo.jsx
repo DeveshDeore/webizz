@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './index.css';
-import * as XLSX from 'xlsx';
+
 
 function UserInfo() {
   const [formData, setFormData] = useState({
